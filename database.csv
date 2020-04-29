@@ -1,0 +1,16 @@
+email,subject,message
+ron@gmail.com,hi,lalala
+ron@gmail.com,hi,lalala
+ron@gmail.com,hi,"hello ""hello"" |hello|"
+ron@gmail.com,|hii|,"hello ""hello"" |hello|"
+ron@gmail.com,|hii|,hello "hello" |hello|
+ron@gmail.com,|hii|,hello "hello" |hello|
+ron@gmail.com,|hii|,"hello ""hello"" |hello|"
+ron@gmail.com,|hii|,
+ron@gmail.com,|hii|,
+"ron@gmail.com","|hii|","123"
+"ron@gmail.com","|hii|","123"
+"ron@gmail.com","|hii|","|gsdfg|"
+ron@gmail.com,|hii|,|gsdfg|
+ron@gmail.com,|hii|,"gfdg,"
+ron@gmail.com,|hii|,gfdg....
